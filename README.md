@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbrarBb
 - 👀 I’m interested in ... innovation
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... kotlin
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me ... 
 
