@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AbrarBb
+- 👋 Hi, I’m @Abrar_Lajim
 - 👀 I’m interested in ... innovation
 - 🌱 I’m currently learning ... kotlin
 - 💞️ I’m looking to collaborate on Java
-- 📫 How to reach me ... 
+
 
 <!---
 AbrarBb/AbrarBb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
