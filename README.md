@@ -16,7 +16,7 @@ Aspiring Software Engineer 🚀 <br>Dart, Kotlin & Java Enthusiast 💻 <br>Craf
 ![](https://github-profile-trophy.vercel.app/?username=Abrarbb&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Dev Quote
-![Quote](https://github-readme-quotes-bay.vercel.app/quote)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abrarbb&limit=5&theme=dark&combine_all_yearly_contributions=true)
