@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Lajim </h1> -->
 <!-- <h3 align="center">A CS student from Bangladesh</h3> -->
-
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <samp>
     <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hey there!</h1>
 </samp>
@@ -17,7 +17,7 @@
 
 <b>
 
-# 💫 About Me:
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;# 💫 About Me:
 Aspiring Software Engineer 🚀 <br>Dart, Kotlin & Java Enthusiast 💻 <br>Crafting innovative apps like Ally Keeper 🌟 <br>Exploring the fusion of tech, creativity, and human connection 🌍 <br>Guy with a passion for ideas that matter.
 
 
