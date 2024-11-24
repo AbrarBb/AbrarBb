@@ -7,7 +7,9 @@
 
 <samp>
     <h3 align="center">I am <code><b>Abrar Khatib Lajim</b></code></h3>
+    
 </samp>
+
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Andriod+%2B+laravel;A+student+at+EWU;studying+BSc.+in+CSE+)](https://git.io/typing-svg)
 
 <!-- Git Header SVG -->
@@ -15,15 +17,8 @@
 
 <b>
 
-- 🐧 A Linux enthusiast
-- ❤️ I like open-source projects
-- 🌱 Interested about resume? [Click here](https://resume.github.io/?SharafatKarim).
-- 🔥 Feel free to text me
-
-
-
 # 💫 About Me:
-Aspiring Software Engineer 🚀 <br>Dart, Kotlin & Java Enthusiast 💻 <br>Crafting innovative apps like Ally Keeper 🌟 <br>Exploring the fusion of tech, creativity, and human connection 🌍 <br>CSE Student with a passion for ideas that matter.
+Aspiring Software Engineer 🚀 <br>Dart, Kotlin & Java Enthusiast 💻 <br>Crafting innovative apps like Ally Keeper 🌟 <br>Exploring the fusion of tech, creativity, and human connection 🌍 <br>Guy with a passion for ideas that matter.
 
 
 ## 🌐 Socials:
