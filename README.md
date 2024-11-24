@@ -1,3 +1,23 @@
+<!-- <h1 align="center">Hi 👋, I'm Lajim </h1> -->
+<!-- <h3 align="center">A CS student from Bangladesh</h3> -->
+
+<samp>
+    <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hey there!</h1>
+</samp>
+
+<samp>
+    <h3 align="center">I am <code><b>Abrar Khatib Lajim</b></code></h3>
+</samp>
+
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Arch+Linux+%2B+KDE+plasma;A+student+at+PSTU;studying+BSc.+in+CSE+)](https://git.io/typing-svg)
+
+<!-- Git Header SVG -->
+<p><img width="40%" align="right" alt="Github Header" src="git-header.svg"/></p>
+
+<b>
+
+
+
 # 💫 About Me:
 Aspiring Software Engineer 🚀 <br>Dart, Kotlin & Java Enthusiast 💻 <br>Crafting innovative apps like Ally Keeper 🌟 <br>Exploring the fusion of tech, creativity, and human connection 🌍 <br>CSE Student with a passion for ideas that matter.
 
