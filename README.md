@@ -8,13 +8,17 @@
 <samp>
     <h3 align="center">I am <code><b>Abrar Khatib Lajim</b></code></h3>
 </samp>
-
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Arch+Linux+%2B+KDE+plasma;A+student+at+PSTU;studying+BSc.+in+CSE+)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Andriod+%2B+laravel;A+student+at+EWU;studying+BSc.+in+CSE+)](https://git.io/typing-svg)
 
 <!-- Git Header SVG -->
 <p><img width="40%" align="right" alt="Github Header" src="git-header.svg"/></p>
 
 <b>
+
+- 🐧 A Linux enthusiast
+- ❤️ I like open-source projects
+- 🌱 Interested about resume? [Click here](https://resume.github.io/?SharafatKarim).
+- 🔥 Feel free to text me
 
 
 
