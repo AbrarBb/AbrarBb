@@ -10,7 +10,7 @@
     
 </samp>
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Andriod+%2B+laravel;A+student+at+EWU;studying+BSc.+in+CSE+)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Me+%2B+Lazy;A+student+at+EWU;studying+BSc.+in+CSE+)](https://git.io/typing-svg)
 
 <!-- Git Header SVG -->
 <p><img width="40%" align="right" alt="Github Header" src="git-header.svg"/></p>
