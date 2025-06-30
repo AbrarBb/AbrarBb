@@ -19,7 +19,7 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About Me:***
 
-Aspiring Software Engineer 🚀 <br>Dart, Kotlin & Java Enthusiast 💻 <br>Crafting innovative apps like Ally Keeper 🌟 <br>Exploring the fusion of tech, creativity, and human connection 🌍 <br>Guy with a passion for ideas that matter.
+Aspiring Software Engineer 🚀 <br>Dart, Kotlin & Java Enthusiast 💻 <br>Exploring the fusion of tech, creativity, and human connection 🌍 <br>Guy with a passion for ideas that matter.
 
 
 ## 🌐 Socials:
