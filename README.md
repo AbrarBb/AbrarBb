@@ -40,7 +40,7 @@ Aspiring Software Engineer 🚀 <br>Dart, Kotlin & Java Enthusiast 💻 <br>Expl
 <tr>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Abrarbb&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abrarbb&theme=nightowl&hide_border=false" alt="Abrarbb streak" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=AbrarBb&theme=transparent&hide_border=false" />
 </td>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abrarbb&theme=nightowl&hide_border=false&langs_count=10"/>
