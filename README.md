@@ -70,8 +70,8 @@
   </a>
 
   <!-- Languages -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/cprogramming/cprogramming-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-ar21.svg"></code>
+  <code><img width="3.8%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/960px-C_Programming_Language.svg.png?20201031132917"></code>
+  <code><img width="4.2%" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
   <br />
 
@@ -93,8 +93,8 @@
 
   <!-- Data & DevOps -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pandas/pandas-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github_actions/github_actions-ar21.svg"></code>
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png?20200209204934"></code>
+ 
   <br />
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
