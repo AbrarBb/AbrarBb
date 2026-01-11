@@ -12,37 +12,108 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Me+%2B+Lazy;A+student+at+EWU;studying+BSc.+in+CSE+)](https://git.io/typing-svg)
 
+<!-- Social -->
+<p align="center" style="margin: -20px 0 30px">
+   <a href="https://www.youtube.com/@Abrar_Khatib" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/August.Abrar/" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abrar-khatib/" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:abrarkhaatib@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="22px" width="22px" />
+  </a>
+</p>
+
+<!-- Talking about you -->
+### Talking about Personal Stuffs:
 <!-- Git Header SVG -->
 <p><img width="40%" align="right" alt="Github Header" src="git-header.svg"/></p>
 
 <b>
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About Me:***
 
-Aspiring Software Engineer 🚀 <br>Dart, Kotlin & Java Enthusiast 💻 <br>Exploring the fusion of tech, creativity, and human connection 🌍 <br>Guy with a passion for ideas that matter.
+- 🚀 Aspiring Software Engineer
+- 👨🏽‍💻 I’m currently learning [ML](https://github.com/AbrarBb/Machine_Learning-Journey);
+- 🌍 Exploring the fusion of tech, creativity, and human connection 
+- 🌱 Guy with a passion for ideas that matter; 
 
+<br>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/august.abrar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abrar_khatibb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abrar-khatib) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/abrar_khatib) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@proxymo6132) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Abrar-Khatib) 
+### Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/abrar-khatib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/abrar-khatib" height="30" width="40" /></a>
+<a href="https://kaggle.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vivekvardhan2803" height="30" width="40" /></a>
+<a href="https://instagram.com/august.abrar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="august.abrar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/mglajim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mglajim" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="upcoming" height="30" width="40" /></a>
+</p>
 
 <br>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Tech Stack:***
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+### Languages and Tools
+
+<p>
+  <!-- GitHub Stats -->
+  <a href="https://github.com/Abrarbb">
+    <img width="50%" align="right" alt="Abrar's github stats"
+      src="https://github-readme-stats-fast.vercel.app/api?username=AbrarBb&show_icons=true&theme=tokyonight"/>
+  </a>
+
+  <!-- Languages -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/cprogramming/cprogramming-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
+  <br />
+
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <br />
+
+  <!-- Backend & Databases -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <br />
+
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <br />
+
+  <!-- Data & DevOps -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pandas/pandas-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github_actions/github_actions-ar21.svg"></code>
+  <br />
+
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</p>
+
+
+<!-- Github Stats -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;
+### Github Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <p align="center">
 <table align="center">
 <tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abrarbb&theme=nightowl&show_icons=true&count_private=true" />
+<td width="52%" align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AbrarBb&layout=compact&theme=tokyonight" />
     <img src="https://nirzak-streak-stats.vercel.app/?user=AbrarBb&theme=transparent&hide_border=false" />
 </td>
-<td width="50%" align="center">
+<td width="52%" align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abrarbb&theme=nightowl&hide_border=false&langs_count=10"/>
 </td>
 </tr>
@@ -51,12 +122,5 @@ Aspiring Software Engineer 🚀 <br>Dart, Kotlin & Java Enthusiast 💻 <br>Expl
 <br>
 
 
-<!--### ✍️Dev Quote
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
-
-### 🔝 Top Contributed Repo
-//![](https://github-contributor-stats.vercel.app/api?username=Abrarbb&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
-
-[![](https://visitcount.itsvg.in/api?id=Abrarbb&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
