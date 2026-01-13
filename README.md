@@ -65,8 +65,8 @@
 <p>
   <!-- GitHub Stats -->
   <a href="https://github.com/Abrarbb">
-    <img width="50%" align="right" alt="Abrar's github stats"
-      src="https://github-readme-stats-fast.vercel.app/api?username=AbrarBb&show_icons=true&theme=tokyonight"/>
+    <img width="29%" align="right" alt="Abrar's github stats"
+      src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abrarbb&theme=nightowl&hide_border=false&langs_count=10"/>
   </a>
 
   <!-- Languages -->
@@ -109,12 +109,12 @@
 <p align="center">
 <table align="center">
 <tr>
-<td width="52%" align="center">
+<td width="50%" align="center">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AbrarBb&layout=compact&theme=tokyonight" />
     <img src="https://nirzak-streak-stats.vercel.app/?user=AbrarBb&theme=transparent&hide_border=false" />
 </td>
-<td width="52%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abrarbb&theme=nightowl&hide_border=false&langs_count=10"/>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=AbrarBb&show_icons=true&theme=tokyonight"/>
 </td>
 </tr>
 </table>
