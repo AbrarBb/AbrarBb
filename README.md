@@ -65,7 +65,7 @@
 <p>
   <!-- GitHub Stats -->
   <a href="https://github.com/Abrarbb">
-    <img width="29%" align="right" alt="Abrar's github stats"
+    <img width="30%" align="right" alt="Abrar's github stats"
       src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abrarbb&theme=nightowl&hide_border=false&langs_count=10"/>
   </a>
 
